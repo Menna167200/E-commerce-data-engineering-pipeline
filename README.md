@@ -158,39 +158,6 @@ docker compose build --no-cache
 
 ---
 
-# ⚙️ Setup Instructions
-
-## 1. Clone repo
-```bash
-git clone <repo-url>
-cd project
-```
-
----
-
-## 2. Configure environment
-```bash
-cp .env.example .env
-```
-
-Fill in required values.
-
----
-
-## 3. Build containers
-```bash
-docker compose build --no-cache
-```
-
----
-
-## 4. Start system
-```bash
-docker compose up -d
-```
-
----
-
 # 🌐 Services
 
 | Service | URL |
@@ -198,7 +165,7 @@ docker compose up -d
 | Airflow UI | http://localhost:8080 |
 | MinIO Console | http://localhost:9001 |
 | Spark Master | http://localhost:9090 |
-| Kafka Broker | localhost:9092 |
+| Kafka Broker | http://localhost:9092 |
 
 ---
 
