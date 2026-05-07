@@ -225,8 +225,8 @@ https://youtu.be/B7CwU_tNYIE
 - Airflow Tutorial (Ansh Lamba)  
 https://youtu.be/IiczxlbQb8s
 
-- Docker Tutorial (Ansh Lamba)
-https://youtu.be/nAHx_uSBfTg
+- Docker Tutorial (Ansh Lamba)  
+[https://youtu.be/IiczxlbQb8s](https://youtu.be/nAHx_uSBfTg)
 
 - MinIO + Spark Setup  
 https://medium.com/@dkalouris/setting-up-aws-s3-minio-and-spark-using-docker-compose-6a22ef26c6b0  
