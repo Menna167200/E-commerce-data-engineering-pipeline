@@ -1,7 +1,7 @@
 import os
 import json
-import subprocess
 import tempfile
+import subprocess
 from confluent_kafka import Consumer, KafkaException
 
 SPARK_HOME = os.getenv('SPARK_HOME')
