@@ -1,6 +1,7 @@
+import os
 from airflow.sdk import dag, task
 import subprocess
-import os
+
 
 @dag
 def gold_dag():
