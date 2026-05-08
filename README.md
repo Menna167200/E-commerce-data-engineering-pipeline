@@ -32,11 +32,11 @@ https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-cat
 
 # 🏗️ Data Architecture (Medallion Model)
 
-## 🟤 Bronze Layer
+## 🥉 Bronze Layer
 - Raw chunked parquet files
 - Stored in **MinIO (S3-compatible storage)**
 
-## ⚪ Silver Layer
+## 🥈 Silver Layer
 Cleaned & standardized dataset:
 - Deduplication
 - Schema casting
@@ -44,7 +44,7 @@ Cleaned & standardized dataset:
 - Median imputation
 - Event filtering
 
-## 🟡 Gold Layer
+## 🏅 Gold Layer
 Business-ready analytics tables:
 
 - `fact_purchases`
