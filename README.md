@@ -45,6 +45,7 @@ Delta Lake (Silver Layer)
    ↓
 Gold Layer Aggregations
 ```
+<img width="1536" height="1024" alt="ChatGPT Image May 8, 2026, 01_44_12 AM" src="https://github.com/user-attachments/assets/14440cf1-0b1f-477f-9b5f-d4d3bf05a54f" />
 
 ---
 
